@@ -1,5 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [Пользовательские функции в Google Таблицах](chapter1.md)
+* [Введение](README.md)
+* [First Chapter](chapter1.md)
+* [Ссылки](liks.md)
 
