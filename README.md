@@ -3,5 +3,4 @@
 # Введение
 Тут введение
 # TODO
-- [ ] write some articles
-- [x] drink a cup of tea
+- перевод https://developers.google.com/apps-script/guides/sheets/functions
