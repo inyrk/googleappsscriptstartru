@@ -2,6 +2,6 @@
 
 * [Введение](README.md)
 * [Пользовательские функции в Google Таблицах](customfunctions.md)
-   * Практика
+   * [Практика](praktika.md)
 * [Ссылки](liks.md)
 
